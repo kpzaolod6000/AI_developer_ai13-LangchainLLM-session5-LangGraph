@@ -1,0 +1,20 @@
+google-cloud-bigquery 
+pandas 
+db-dtypes
+google-cloud-bigquery-storage
+google-cloud-aiplatform
+google-cloud-storage
+google-genai
+gitpython
+google-adk
+sqlalchemy
+sqlalchemy-bigquery
+tabulate
+streamlit
+python-dotenv
+
+# Dependencias para LangChain y LangGraph (versión 1.0+)
+langchain>=1.0.0
+langchain-core>=1.0.0
+langchain-openai>=0.2.0
+langgraph>=1.0.0
